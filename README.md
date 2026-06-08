@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет! Я Вайсиддин Rahmatov 👋
 
-<!--
-**webtjk/webtjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Full-Stack Web Developer** и **AI Enthusiast**. Специализируюсь на создании современных, быстрых и безопасных веб-приложений с упором на качественный UI/UX и облачную инфраструктуру.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мой главный проект для защиты
+
+### 🗳️ [SecureVote](https://secvote.web.app) — Платформа анонимного голосования
+Веб-сервис для проведения защищенных, полностью анонимных опросов в корпоративной и образовательной сферах.
+* **Фронтенд:** Современный адаптивный интерфейс с плавными переходами и поддержкой медиа-контента для вариантов ответов.
+* **Бэкенд & База данных:** Полная интеграция с **Firebase** (Hosting, Firestore Security Rules, Storage).
+* **Фичи:** Динамическая загрузка изображений, поддержка множественного выбора и одиночного голосования, защита данных на уровне правил БД.
+
+---
+
+## 🛠️ Технологический стек & Инструменты
+
+| Сфера | Технологии |
+| :--- | :--- |
+| **Frontend & UI/UX** | JavaScript, HTML5 / CSS3, Адаптивный & Современный дизайн |
+| **Backend & Cloud** | Firebase (Hosting, Firestore, Storage, Cloud Functions) |
+| **AI & Data Science** | Мониторинг данных, Интеграция AI-моделей (Python, Jupyter Notebook) |
+| **Инструменты & Dev** | Git / GitHub, Управление уязвимостями (Snyk), Автоматизация |
+
+---
+
+## 📈 Мои другие проекты на GitHub
+* **`ai-credit-scoring-pipeline`** — Пайплайн на Python для кредитного скоринга с использованием искусственного интеллекта.
+* **`ai_world_observer`** — Инструмент для мониторинга и анализа глобальных данных на базе ИИ.
+
+---
+
+## 📫 Как со мной связаться
+* 🌍 Мой задеплоенный проект: [secvote.web.app](https://secvote.web.app)
+* 📍 Локация: Таджикистан / Казахстан
