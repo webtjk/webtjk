@@ -18,7 +18,7 @@
 
 ## 🛠 Другие проекты
 
-- **[FaceIQ](https://faceiq.web.app)** — веб-приложение для определения формы лица. Собственная CNN на базе MobileNetV2 (обучена на своих данных, ~69% точность), детекция landmarks через MediaPipe, backend на Flask (Render), frontend на Firebase Hosting.
+- **[FaceIQ](https://absently-bruising-proximity.ngrok-free.app)** — веб-приложение для определения формы лица. Собственная CNN на базе MobileNetV2 (обучена на своих данных, ~69% точность), детекция landmarks через MediaPipe, backend на Flask (Render), frontend на Firebase Hosting.
 - **Dear Void** — платформа для анонимных писем, Firebase-бэкенд.
 - **PyLearn KZ** — образовательная платформа для изучения Python на казахском языке.
 - **KorYob** — джоб-маркетплейс для Таджикистана (таджикский/русский интерфейс), Firebase + Flutter.
